@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TSF_Tech</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="otp">OTP</string>
+    <string name="login">login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="no_account_sign_uo">No Account ,Sign Uo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="link">Link</string>
+    <string name="location">Location</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="save_changes">save changes</string>
+    <string name="skills">Skills</string>
+    <string name="professional_details">Professional Details</string>
+    <string name="designation">Designation</string>
+    <string name="start_year">Start Year</string>
+    <string name="end_year">End Year</string>
+    <string name="organization">Organization</string>
+    <string name="add_profession">add profession</string>
+    <string name="educational_details">Educational Details</string>
+    <string name="university">University/School</string>
+    <string name="degree">Degree</string>
+    <string name="add_education">add education</string>
+    <string name="profile_pic">Profile Pic</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="log_out">log out</string>
+    <string name="add_certificate">Add certificate</string>
+</resources>
